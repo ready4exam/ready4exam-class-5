@@ -228,7 +228,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Globe: Latitudes and Longitudes",
-        "table_id": "",
+        "table_id": "social_globe_longitudes_5_quiz",
         "section": "Social Science"
       },
       {
