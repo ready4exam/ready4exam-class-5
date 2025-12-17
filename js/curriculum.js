@@ -206,7 +206,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Traders, Kings and Pilgrims",
-        "table_id": "",
+        "table_id": "social_traders_pilgrims_5_quiz",
         "section": "Social Science"
       },
       {
