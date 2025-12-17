@@ -300,7 +300,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Livelihoods in the Rural Areas",
-        "table_id": "",
+        "table_id": "social_livelihoods_areas_5_quiz",
         "section": "Social Science"
       },
       {
