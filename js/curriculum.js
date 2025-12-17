@@ -63,7 +63,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Fun with Magnets",
-        "table_id": "",
+        "table_id": "science_fun_magnets_5_quiz",
         "section": "Science"
       },
       {
