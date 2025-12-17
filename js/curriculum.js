@@ -122,7 +122,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Decimals",
-        "table_id": "",
+        "table_id": "mathematics_decimals_decimals_5_quiz",
         "section": "Science"
       },
       {
