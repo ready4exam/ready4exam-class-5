@@ -161,7 +161,7 @@ export const curriculum = {
     "History (The Story of the Past I)": [
       {
         "chapter_title": "What, Where, How and When?",
-        "table_id": "",
+        "table_id": "social_what_when_5_quiz",
         "section": "Social Science"
       },
       {
