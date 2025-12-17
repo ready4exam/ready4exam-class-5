@@ -275,7 +275,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "What is Government?",
-        "table_id": "",
+        "table_id": "social_what_government_5_quiz",
         "section": "Social Science"
       },
       {
