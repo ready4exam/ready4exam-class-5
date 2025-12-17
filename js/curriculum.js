@@ -171,7 +171,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "From Gathering to Growing Food",
-        "table_id": "",
+        "table_id": "social_from_food_5_quiz",
         "section": "Social Science"
       },
       {
