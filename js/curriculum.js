@@ -78,7 +78,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Garbage In, Garbage Out",
-        "table_id": "",
+        "table_id": "science_garbage_out_5_quiz",
         "section": "Science"
       }
     ]
