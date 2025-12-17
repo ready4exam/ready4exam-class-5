@@ -142,7 +142,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Ratio and Proportion",
-        "table_id": "",
+        "table_id": "mathematics_ratio_proportion_5_quiz",
         "section": "Science"
       },
       {
