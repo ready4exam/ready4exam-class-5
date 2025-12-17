@@ -8,7 +8,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Components of Food",
-        "table_id": "",
+        "table_id": "science_components_food_5_quiz",
         "section": "Science"
       },
       {
