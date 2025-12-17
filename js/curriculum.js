@@ -112,7 +112,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Integers",
-        "table_id": "",
+        "table_id": "mathematics_integers_integers_5_quiz",
         "section": "Science"
       },
       {
