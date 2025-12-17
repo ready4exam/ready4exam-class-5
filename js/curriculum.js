@@ -265,7 +265,7 @@ export const curriculum = {
     "Civics/Political Science (Social and Political Life I)": [
       {
         "chapter_title": "Understanding Diversity",
-        "table_id": "",
+        "table_id": "social_understanding_diversity_5_quiz",
         "section": "Social Science"
       },
       {
