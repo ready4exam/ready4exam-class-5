@@ -270,7 +270,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Diversity and Discrimination",
-        "table_id": "",
+        "table_id": "social_diversity_discrimination_5_quiz",
         "section": "Social Science"
       },
       {
