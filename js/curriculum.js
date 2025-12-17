@@ -87,7 +87,7 @@ export const curriculum = {
     "General Mathematics": [
       {
         "chapter_title": "Knowing Our Numbers",
-        "table_id": "",
+        "table_id": "mathematics_knowing_numbers_5_quiz",
         "section": "Science"
       },
       {
