@@ -201,7 +201,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Vital Villages, Thriving Towns",
-        "table_id": "",
+        "table_id": "social_vital_towns_5_quiz",
         "section": "Social Science"
       },
       {
