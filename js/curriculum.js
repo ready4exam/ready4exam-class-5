@@ -216,7 +216,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Buildings, Paintings and Books",
-        "table_id": "",
+        "table_id": "social_buildings_books_5_quiz",
         "section": "Social Science"
       }
     ],
