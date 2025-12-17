@@ -181,7 +181,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "What Books and Burials Tell Us",
-        "table_id": "",
+        "table_id": "social_what_us_5_quiz",
         "section": "Social Science"
       },
       {
