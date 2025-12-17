@@ -248,7 +248,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Major Landforms of the Earth",
-        "table_id": "",
+        "table_id": "social_major_earth_5_quiz",
         "section": "Social Science"
       },
       {
