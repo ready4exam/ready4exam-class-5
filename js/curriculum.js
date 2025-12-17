@@ -102,7 +102,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Basic Geometrical Ideas",
-        "table_id": "",
+        "table_id": "mathematics_basic_ideas_5_quiz",
         "section": "Science"
       },
       {
