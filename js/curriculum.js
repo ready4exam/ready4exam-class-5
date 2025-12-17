@@ -3,7 +3,7 @@ export const curriculum = {
     "General Science": [
       {
         "chapter_title": "Food: Where Does It Come From?",
-        "table_id": "",
+        "table_id": "science_food_from_5_quiz",
         "section": "Science"
       },
       {
