@@ -97,7 +97,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Playing With Numbers",
-        "table_id": "",
+        "table_id": "mathematics_playing_numbers_5_quiz",
         "section": "Science"
       },
       {
