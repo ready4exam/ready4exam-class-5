@@ -43,7 +43,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "The Living Organisms and Their Surroundings",
-        "table_id": "",
+        "table_id": "science_living_surroundings_5_quiz",
         "section": "Science"
       },
       {
