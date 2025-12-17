@@ -13,7 +13,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Fibre to Fabric",
-        "table_id": "",
+        "table_id": "science_fibre_fabric_5_quiz",
         "section": "Science"
       },
       {
