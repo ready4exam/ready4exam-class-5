@@ -223,7 +223,7 @@ export const curriculum = {
     "Geography (The Earth Our Habitat)": [
       {
         "chapter_title": "The Earth in the Solar System",
-        "table_id": "",
+        "table_id": "social_earth_system_5_quiz",
         "section": "Social Science"
       },
       {
