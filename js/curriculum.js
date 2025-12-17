@@ -107,7 +107,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Understanding Elementary Shapes",
-        "table_id": "",
+        "table_id": "mathematics_understanding_shapes_5_quiz",
         "section": "Science"
       },
       {
