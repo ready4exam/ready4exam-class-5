@@ -28,7 +28,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Changes Around Us",
-        "table_id": "",
+        "table_id": "science_changes_us_5_quiz",
         "section": "Science"
       },
       {
